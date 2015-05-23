@@ -64,7 +64,7 @@ public class Tutorial7b extends ActionBarActivity {
                 this);
 
 
-        Transition fade = new Fade(Fade.IN);
+        Transition fade = new Fade(Fade.OUT);
 
         TransitionManager.go(mAnotherScene, fade);
     }
