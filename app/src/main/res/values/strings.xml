@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AD340</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_tutorial1">Tutorial1</string>
+    <string name="Tutorial1_Title">Tutorial 1</string>
+    <string name="save_string_key">save_string_key</string>
+    <string name="type_here">Type Here</string>
+    <string name="title_activity_tutorial1a">Tutorial1a</string>
+    <string name="title_activity_tutorial4a">Tutorial4a</string>
+    <string name="double_clicked">Double Clicked!</string>
+    <string name="title_activity_tutorial4b">Tutorial4b</string>
+    <string name="title_activity_apbtutorial">APBTutorial</string>
+    <string name="title_activity_tutorial5a">Tutorial5a</string>
+    <string name="title_activity_tutorial6b">Tutorial6b</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_tutorial7a">Tutorial7a</string>
+    <string name="title_activity_tutorial7b">Tutorial7b</string>
+</resources>
